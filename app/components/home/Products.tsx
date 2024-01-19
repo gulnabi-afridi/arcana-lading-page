@@ -79,12 +79,12 @@ export default function Products() {
                   mauris tempus feugiat platea et porttitor. In ultrices sem
                   nulla massa. Mauris aliquet dis sit pulvinar proin facilisi.
                 </p>
-                <div className='flex items-center gap-[1rem] mt-[1rem]'>
+                <button className='flex hover:opacity-80 active:translate-y-[2px] z-10 items-center gap-[1rem] mt-[1rem]'>
                   <p className='text-[16px] font-[500] text-white'>
                     See Markets
                   </p>
                   <FaArrowRightLong className='text-white' />
-                </div>
+                </button>
               </div>
             </div>
             <div className='bg-[#091620] lg:w-[42%] grid lg:grid-cols-3 rounded-[32px] relative'>
