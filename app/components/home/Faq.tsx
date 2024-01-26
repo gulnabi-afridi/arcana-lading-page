@@ -22,7 +22,7 @@ const styles = {
 const FaqSection = () => {
   return (
     <Wrapper style='pt-[2rem] pb-[4rem] md:pb-[6rem]'>
-      <div className='w-full flex flex-col justify-center items-center gap-0 md:gap-4'>
+      <div className='w-full m-auto flex flex-col justify-center items-center gap-0 md:gap-4'>
         <h2 className='text-[30px] sm:text-[34px] font-[600] text-white text-center leading-[42px] sm:leading-[48px] font-popins'>
           Frequently Asked Questions
         </h2>

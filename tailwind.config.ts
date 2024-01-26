@@ -11,6 +11,17 @@ const config: Config = {
       colors: {
         darkBg: '#08171C',
       },
+      screens: {
+        xs: '325px',
+        sm: '480px',
+        md: '768px',
+        lg: '976px',
+        xl: '1300px',
+        '2xl': '1536px',
+        '3xl': '2600px',
+        '4xl': '3000px',
+        '5xl': '3300px',
+      },
       fontFamily: {
         popins: ['Poppins', 'sans-serif'],
       },

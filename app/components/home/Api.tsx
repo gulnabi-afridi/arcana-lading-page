@@ -23,7 +23,7 @@ const Api: React.FC<ApiProps> = () => {
   };
 
   return (
-    <Wrapper style='py-[1rem] md:py-[3rem] md:py-[5rem]'>
+    <Wrapper style=' py-[1rem] md:py-[3rem] md:py-[5rem]'>
       <div className='flex flex-col md:flex-row w-full'>
         <div className='bg-[#012A36] md:w-[60%] rounded-b-none rounded-tl-[32px] md:rounded-bl-[32px] rounded-tr-[32px] md:rounded-r-none'>
           <div className='bg-[#344b66] flex items-center gap-[1rem] p-[1.5rem] rounded-tl-[32px] rounded-tr-[32px] md:rounded-tr-none'>
