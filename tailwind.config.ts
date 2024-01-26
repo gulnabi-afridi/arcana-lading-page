@@ -20,6 +20,7 @@ const config: Config = {
         '2xl': '1536px',
         '3xl': '2600px',
         '4xl': '3000px',
+        lscreen: '3100px',
         '5xl': '3300px',
       },
       fontFamily: {

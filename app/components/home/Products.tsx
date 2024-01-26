@@ -6,7 +6,7 @@ import Banner from './Banner';
 export default function Products() {
   return (
     <Wrapper style='relative'>
-      <div className='w-[90%] absolute top-[-2.3rem] 3xl:-top-[4rem] 4xl:-top-[7rem] lg:bottom-[-14.4rem] left-1/2 transform -translate-x-1/2'>
+      <div className='w-[90%] absolute top-[-2.2rem] 2xl:-top-[2.6rem] 3xl:-top-[5rem] 4xl:-top-[8rem] 5xl:-top-[8rem] lg:bottom-[-14.4rem] left-1/2 transform -translate-x-1/2'>
         <Banner />
       </div>
       <div
@@ -18,7 +18,7 @@ export default function Products() {
           backgroundSize: 'cover',
         }}
       ></div>
-      <div className='py-[5rem] md:py-[7rem] 3xl:py-[10rem] 4xl:py-[13rem]'>
+      <div className='py-[5rem] md:py-[7rem] 3xl:py-[14rem] 4xl:py-[16rem]'>
         <h2 className='text-[30px] sm:text-[34px] text-white font-[500] leading-[42px] sm:leading-[48px] text-center max-w-[400px] mx-auto mb-[2rem] md:mb-[3rem] font-popins'>
           Unparalleled liquidity. Rock solid products.
         </h2>
